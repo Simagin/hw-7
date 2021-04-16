@@ -2,8 +2,8 @@ package main.java;
 
 public class FigureOutput {
 
-    public void res(){
-        Shape shape = new Circle();
+
+    public void res(Shape shape){
         shape.result();
     }
 }
