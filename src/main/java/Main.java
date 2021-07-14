@@ -5,10 +5,14 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
+        Shape cube = new Cube();
+        Shape quad = new Quad();
 
         FigureOutput figureOutput = new FigureOutput();
-        figureOutput.res(new Circle());
+        System.out.println(figureOutput.res(quad));
+
 
     }
 
 }
+

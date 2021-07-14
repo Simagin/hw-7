@@ -3,7 +3,7 @@ package main.java;
 public class FigureOutput {
 
 
-    public void res(Shape shape){
-        shape.result();
+    public String res(Shape shape){
+        return shape.result();
     }
 }
