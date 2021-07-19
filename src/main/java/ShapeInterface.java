@@ -1,5 +1,5 @@
 package main.java;
 
-public interface IShape {
+public interface ShapeInterface {
      String result();
 }

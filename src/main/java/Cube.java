@@ -4,6 +4,7 @@ public class Cube extends Shape {
 
     private final String name = "Cube";
 
+    @Override
     public String getName() {
         return name;
     }

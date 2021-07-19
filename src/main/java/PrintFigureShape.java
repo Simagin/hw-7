@@ -2,8 +2,7 @@ package main.java;
 
 public class PrintFigureShape {
 
-
-    public String printFigure(Shape shape){
-        return shape.result();
+    public void printFigure(Shape shape){
+        System.out.println(shape.result());
     }
 }
