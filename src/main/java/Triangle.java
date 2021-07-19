@@ -1,6 +1,6 @@
 package main.java;
 
-public class Triangle  extends Shape {
+public class Triangle extends Shape {
 
     private final String name = "Triangle";
 

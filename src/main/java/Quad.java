@@ -1,6 +1,6 @@
 package main.java;
 
-public class Quad  extends Shape {
+public class Quad extends Shape {
 
     private final String name = "Quad";
 

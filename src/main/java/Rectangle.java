@@ -1,6 +1,6 @@
 package main.java;
 
-public class Rectangle  extends Shape {
+public class Rectangle extends Shape {
 
     private final String name = "Rectangle";
 

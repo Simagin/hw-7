@@ -1,6 +1,6 @@
 package main.java;
 
-public class Cube  extends Shape {
+public class Cube extends Shape {
 
     private final String name = "Cube";
 
